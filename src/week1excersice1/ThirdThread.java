@@ -12,6 +12,7 @@ public class ThirdThread extends Thread{
     
     boolean end = true;
     
+    @Override
     public void run(){
         long number = 10;
         

@@ -7,9 +7,7 @@ package week1excersice1;
  */
 public class FirstThread extends Thread {
 
-    /**
-     * @param args the command line arguments
-     */
+ 
     @Override
     public void run() {
         long res = 0;
